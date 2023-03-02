@@ -1,0 +1,7 @@
+sklearn
+torch
+torchvision
+pytorch_lightning
+wandb
+argparse
+omegaconf
